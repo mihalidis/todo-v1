@@ -1,8 +1,8 @@
 html {
   background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  background-image: -webkit-linear-gradient(bottom left,#389393,#fa7f72, #f5a25d,#ebebeb 90%);
   min-height: 1000px;
-  font-family: 'helvetica neue';
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 }
 
 #heading {
-  background-color: #A683E3;
+  background-color: #389393;
   text-align: center;
 }
 
